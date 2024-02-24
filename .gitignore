@@ -1,0 +1,13 @@
+**.exe
+**.data
+**.tex
+**.zip
+submition/**.cpp
+submition/**.c
+submition/**.py
+submition/**.pas
+submition/**.p
+dump/**.dmp
+**.csv
+answer/**.ans
+/ignore_tester
